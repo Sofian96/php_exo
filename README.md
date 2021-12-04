@@ -1,2 +1,0 @@
-# PHP.exo
-premier PHP

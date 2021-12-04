@@ -1,1 +1,6 @@
-<p>hello-world</p>
+<?php
+$a = NULL;
+$b = NULL;
+echo $a + $b;
+
+?>
